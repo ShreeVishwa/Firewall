@@ -1,0 +1,9 @@
+Direction,Protocol,Port,IP Address
+inbound,tcp,1,0.0.0.0
+outbound,tcp,1,255.255.255.255
+inbound,udp,1,0.0.0.0
+outbound,udp,1,255.255.255.255
+inbound,tcp,65535,0.0.0.0
+outbound,tcp,65535,255.255.255.255
+inbound,udp,65535,0.0.0.0
+outbound,udp,65535,255.255.255.255

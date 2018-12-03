@@ -1,0 +1,4 @@
+Direction,Protocol,Port,IP Address
+inbound,tcp,10-500,0.0.0.0-0.0.1.1
+outbound,udp,20-600,123.23.12.34-123.23.13.34
+inbound,tcp,1000-1300,0.0.1.2-0.0.2.3
